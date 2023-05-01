@@ -1,4 +1,4 @@
-![MasterHead](https://www.itsasap.com/hs-fs/hubfs/cybersecurity%20framework.gif?width=778&name=cybersecurity%20framework.gif)
+![MasterHead](https://www.haptic-networks.com/wp-content/uploads/2022/10/cyber-security-banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Deep Patel</h1>
 <h3 align="center">A passionate Cyber Security Professional</h3>
