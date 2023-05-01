@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deep1patel&label=Profile%20views&color=0e75b6&style=flat" alt="deep1patel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deep1patel" alt="deep1patel" /></a> </p>
 
 - 🔭 I’m currently working on **Network Tracking using Wireshark and Google Maps (Python)**
 
