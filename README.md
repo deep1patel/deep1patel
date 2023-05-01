@@ -1,4 +1,4 @@
-[![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJlYzk0ZmUxMjFkOGZlNmU5ZjYyOTZkMzBjNTE0N2NlMDVkNzQyOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/hun4DFmfnDId3lid5b/giphy.gif)]
+[![MasterHead](https://i.pinimg.com/originals/19/e1/71/19e171391727335f510db47a13269d2d.gif)]
 
 <h1 align="center">Hi 👋, I'm Deep Patel</h1>
 <h3 align="center">A passionate Cyber Security Professional</h3>
