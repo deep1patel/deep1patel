@@ -1,4 +1,4 @@
-![MasterHead](https://kapost-files-prod.s3.amazonaws.com/uploads/direct/1434770698-29468-7471/Cybersecurity.gif)
+![MasterHead](https://www.itsasap.com/hs-fs/hubfs/cybersecurity%20framework.gif?width=778&name=cybersecurity%20framework.gif)
 
 <h1 align="center">Hi 👋, I'm Deep Patel</h1>
 <h3 align="center">A passionate Cyber Security Professional</h3>
