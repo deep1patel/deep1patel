@@ -8,9 +8,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deep1patel&label=Profile%20views&color=0e75b6&style=flat" alt="deep1patel" /> </p>
 
 
-- 🔭 I’m currently working on **Network Tracking using Wireshark and Google Maps (Python)**
+- 🔭 I’m currently working towards attaining the **CompTIA Security+ Certificate**
 
-- 🌱 I’m currently learning **Scripting in PowerShell and Networking Configurations**
+- 🌱 I’m currently learning **Scripting in PowerShell, SQL Injection, and SIEM Tools**
 
 - 👨‍💻 All of my projects are available at [https://github.com/deep1patel](https://github.com/deep1patel)
 
